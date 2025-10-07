@@ -3,8 +3,8 @@ A **lightweight and responsive web application** that displays **real-time weath
 Built with **HTML, CSS, and JavaScript**, it provides a clean, modern interface with a sky-blue theme and smooth user experience.
 
 ## 📸 Preview
-/screenshots/home.jpg
-/screenshots/result.jpg
+/Home.jpg
+/Result.jpg
 
 ## 🚀 Features
 -Real-time weather information for any city  
