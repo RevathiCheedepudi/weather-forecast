@@ -3,12 +3,16 @@ A **lightweight and responsive web application** that displays **real-time weath
 Built with **HTML, CSS, and JavaScript**, it provides a clean, modern interface with a sky-blue theme and smooth user experience.
 
 ## 📸 Preview
-./Home.jpg
-./Result.jpg
+
+### 🏠 Home Page
+![Home Page](./Home.jpg)
+
+### 🌤 Result Page
+![Result Page](./Result.jpg)
+
 
 ## 🚀 Features
-
--Real-time weather information for any city  
+- Real-time weather information for any city  
 - Hourly forecast for the next 24 hours  
 - City-based weather search functionality  
 - Dynamic weather icons and temperature display in Celsius  
